@@ -1,0 +1,10 @@
+body, html {
+ text-align: center;
+ background-color: black;
+ color: white;
+ font-size: 50px;
+}
+
+h6 {
+    background-color: black;
+}
